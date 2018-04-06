@@ -1,0 +1,15 @@
+{
+	"title": "Ndewo, Colorado",
+	"cover": "../../../home/administrator/Pictures/IMG_20180221_154750.jpg",
+	"meeting": "2017-10-09",
+	"pet": [
+		{
+			"name": "Adam Catlace",
+			"birthday": "2014-06-01"
+		},
+		{
+			"name": "VilmaSusi",
+			"birthday": "2018-04-01"
+		}
+	]
+}
