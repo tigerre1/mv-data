@@ -4,16 +4,12 @@
 	"meeting": "2017-10-09",
 	"pet": [
 		{
-			"name": "Adam Catlace",
-			"birthday": "2014-06-01"
-		},
-		{
-			"name": "VilmaSusi",
-			"birthday": "2018-04-01"
-		},
-		{
 			"name": "Hilda",
-			"birthday": "2017-06-12"
+			"text": "Hilda är en fin hund, som är bra på att jaga harar."
+		},
+		{
+			"name": "Vilma",
+			"text": "Också en fin vofsing."
 		}
 	]
 }
