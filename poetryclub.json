@@ -11,5 +11,15 @@
 			"name": "Vilma",
 			"text": "Också en fin vofsing."
 		}
+	],
+	"post": [
+		{
+			"name": "Adam Catlace",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates impedit sequi itaque hic blanditiis molestiae tenetur, mollitia magnam inventore incidunt, saepe ad eveniet molestias. Laboriosam hic tempora obcaecati esse eos."
+		},
+		{
+			"name": "Hilda",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates impedit sequi itaque hic blanditiis molestiae tenetur, mollitia magnam inventore incidunt, saepe ad eveniet molestias. Laboriosam hic tempora obcaecati esse eos."
+		}
 	]
 }
