@@ -1,0 +1,14 @@
+{
+	"feature": [
+		{
+			"name": "Sökfält",
+			"desc": "Beskrivning",
+			"text": "Lägg till ett sökfält på första sidan. Man skall kunna få träffar på sökord ur alla dagboksnoteringar."
+		},
+		{
+			"name": "Sidospalten på första sidan",
+			"desc": "Beskrivning",
+			"text": "Skall sidospalten finnas överhuvudtaget eller borde den bara begränsas så att enbart relevanta noteringar dyker upp?"
+		}
+	]
+}
