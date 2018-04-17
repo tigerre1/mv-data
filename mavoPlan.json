@@ -9,6 +9,11 @@
 			"name": "Sidospalten på första sidan",
 			"desc": "Beskrivning",
 			"text": "Skall sidospalten finnas överhuvudtaget eller borde den bara begränsas så att enbart relevanta noteringar dyker upp?"
+		},
+		{
+			"name": "Skapa ny sida med google sheets",
+			"desc": "Beskrivning:",
+			"text": "Ny sida, där det är möjligt att registrera t.ex. vikt, punttis, böcker lästa osv."
 		}
 	]
 }
